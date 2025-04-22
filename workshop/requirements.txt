@@ -1,0 +1,4 @@
+aiohttp
+myproject
+protobuf
+pytest
