@@ -1,0 +1,4 @@
+aiohttp
+apache_flink_statefun
+protobuf
+pytest
