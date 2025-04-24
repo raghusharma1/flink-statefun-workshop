@@ -1,0 +1,4 @@
+aiohttp
+mock
+protobuf
+pytest
